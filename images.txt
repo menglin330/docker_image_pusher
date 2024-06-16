@@ -2,3 +2,4 @@ jellyfin/jellyfin
 onething1/wxedge
 ypptec/nascab
 emby/embyserver
+homeassistant/home-assistant
