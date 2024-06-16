@@ -3,4 +3,3 @@ onething1/wxedge
 ypptec/nascab
 emby/embyserver
 homeassistant/home-assistant
-sungamma/nas-tools:2.9.1
